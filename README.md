@@ -1,6 +1,6 @@
 # Primer proyecto
 
-Esto espero que sirva para algo
+Esto espero que sirva para algo. Otra cosita más.
 
 ## Resumen
 
